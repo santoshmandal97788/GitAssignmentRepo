@@ -1,0 +1,7 @@
+C:\Users\Hp\Desktop\StudentCRUDAPI\StudentCrudAPI\StudentCrudAPI\obj\Debug\net6.0\StudentCrudAPI.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\StudentCRUDAPI\StudentCrudAPI\StudentCrudAPI\obj\Debug\net6.0\StudentCrudAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\StudentCRUDAPI\StudentCrudAPI\StudentCrudAPI\obj\Debug\net6.0\StudentCrudAPI.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\StudentCRUDAPI\StudentCrudAPI\StudentCrudAPI\obj\Debug\net6.0\StudentCrudAPI.AssemblyInfo.cs
+C:\Users\Hp\Desktop\StudentCRUDAPI\StudentCrudAPI\StudentCrudAPI\obj\Debug\net6.0\StudentCrudAPI.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\StudentCRUDAPI\StudentCrudAPI\StudentCrudAPI\obj\Debug\net6.0\StudentCrudAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hp\Desktop\StudentCRUDAPI\StudentCrudAPI\StudentCrudAPI\obj\Debug\net6.0\StudentCrudAPI.MvcApplicationPartsAssemblyInfo.cache
